@@ -50,5 +50,3 @@ rango de puertos a escanear.
 ```
 
 ###### Hecho con ❤️ Necesitas ayuda? contactame por (``SerLink04#0004``) o contactame en Twitter: [@Link04Ser](https://twitter.com/Link04Ser)
-
-#### ReadMe by [@brunxxh](https://github.com/brunxxh)
