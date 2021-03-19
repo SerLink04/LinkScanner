@@ -13,7 +13,7 @@ import re
 
 # Coded by SerLink04 (discord.gg/lsq)
 
-name_cmd = "LinkScanner | discord.gg/linksquad | Coded by SerLink04"
+name_cmd = "LinkScanner | discord.gg/lsq | Coded by SerLink04"
 
 ctypes.windll.kernel32.SetConsoleTitleW(name_cmd)
     
