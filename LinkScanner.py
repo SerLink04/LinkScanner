@@ -11,7 +11,7 @@ import ctypes
 from datetime import datetime
 import re
 
-# Coded by SerLink04 (discord.gg/linksquad)
+# Coded by SerLink04 (discord.gg/lsq)
 
 name_cmd = "LinkScanner | discord.gg/linksquad | Coded by SerLink04"
 
