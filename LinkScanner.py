@@ -5,7 +5,6 @@ import os
 from colorama import *
 from threading import Thread
 from shodan import Shodan
-import socket
 from check_mc_info import *
 import ctypes
 from datetime import datetime
