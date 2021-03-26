@@ -234,7 +234,7 @@ def main():
     """
 
     rainbow(banner)
-    rainbow("                Coded by SerLink04 #LinkSquad (discord.gg/linksquad)")
+    rainbow("                Coded by SerLink04 #LinkSquad (discord.gg/lsq)")
     print()
     print() 
     rainbow("                                 (1) Escanear ips")
