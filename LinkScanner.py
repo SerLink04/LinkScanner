@@ -14,8 +14,10 @@ import re
 
 name_cmd = "LinkScanner | discord.gg/lsq | Coded by SerLink04"
 
-ctypes.windll.kernel32.SetConsoleTitleW(name_cmd)
-    
+try:
+    ctypes.windll.kernel32.SetConsoleTitleW(name_cmd)
+except:
+    pass
 def fix_motd(motd):
     return re.sub(r'&[0-9A-Za-z]|§[0-9A-Za-z]|\n|\r|\\n', '', motd)
     
