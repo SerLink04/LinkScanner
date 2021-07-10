@@ -10,9 +10,9 @@ import ctypes
 from datetime import datetime
 import re
 
-# Coded by SerLink04 (discord.gg/linksquad)
+# Coded by SerLink04 (discord.gg/sweet)
 
-name_cmd = "LinkScanner | discord.gg/linksquad | Coded by SerLink04"
+name_cmd = "LinkScanner | discord.gg/sweet | Coded by SerLink04"
 
 try:
     ctypes.windll.kernel32.SetConsoleTitleW(name_cmd)
