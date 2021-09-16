@@ -49,4 +49,4 @@ finalmente nos preguntará si deseamos iniciar el escaneo, escribimos s y pulsam
 rango de puertos a escanear.
 ```
 
-###### Hecho con ❤️ Necesitas ayuda? contactame por (``SerLink04#6666``) o contactame en Twitter: [@Link04Ser](https://twitter.com/Link04Ser)
+###### Hecho con ❤️ Necesitas ayuda? contactame por (``SerLink04#0001``) o contactame en Twitter: [@Link04Ser](https://twitter.com/Link04Ser)
