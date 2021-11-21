@@ -1,7 +1,7 @@
 # 🚀 LinkScanner 🚀
 
 ### Apreciaria que entren a mi comunidad.
-#### ➜ https://discord.gg/barras
+#### ➜ https://discord.gg/barras (Add me on discord plz -> SerLink04#1337)
 
 ![linkscanner](https://media.discordapp.net/attachments/811334964293140501/814578698577379348/lsq_cmd.PNG)
 
