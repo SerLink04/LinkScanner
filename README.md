@@ -1,7 +1,7 @@
 # 🚀 LinkScanner 🚀
 
 ### Apreciaria que entren a mi comunidad.
-#### ➜ https://discord.gg/barras (Add me on discord plz -> SerLink04#1337)
+#### ➜ https://discord.gg/comunidad (Add me on discord plz -> SerLink04#6666)
 
 ![linkscanner](https://media.discordapp.net/attachments/811334964293140501/814578698577379348/lsq_cmd.PNG)
 
@@ -49,4 +49,4 @@ finalmente nos preguntará si deseamos iniciar el escaneo, escribimos s y pulsam
 rango de puertos a escanear.
 ```
 
-###### Hecho con ❤️ Necesitas ayuda? contactame por (``SerLink04#1337``) o contactame en Twitter: [@Link04Ser](https://twitter.com/Link04Ser)
+###### Hecho con ❤️ Necesitas ayuda? contactame por (``SerLink04#6666``) o contactame en Twitter: [@Link04Ser](https://twitter.com/Link04Ser)
