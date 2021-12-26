@@ -10,9 +10,9 @@ import ctypes
 from datetime import datetime
 import re
 
-# Coded by SerLink04 (discord.gg/barras)
+# Coded by SerLink04 (discord.gg/comunidad)
 
-name_cmd = "LinkScanner | discord.gg/barras | Coded by SerLink04"
+name_cmd = "LinkScanner | discord.gg/comunidad | Coded by SerLink04"
 
 try:
     ctypes.windll.kernel32.SetConsoleTitleW(name_cmd)
@@ -235,7 +235,7 @@ def main():
     """
 
     rainbow(banner)
-    rainbow("                Coded by SerLink04 #LinkSquad (discord.gg/barras)")
+    rainbow("                Coded by SerLink04 #LinkSquad (discord.gg/comunidad)")
     print()
     print() 
     rainbow("                                 (1) Escanear ips")
